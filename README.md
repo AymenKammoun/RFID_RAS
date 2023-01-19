@@ -1,1 +1,2 @@
-# RFID_RAS
+this is RAS RFID PROJECT FOR MEMBERS CHEKIN AND CHECK OUT (Presence list) 
+# V1
